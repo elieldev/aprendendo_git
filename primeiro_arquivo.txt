@@ -1,0 +1,15 @@
+Aprendi que o GitHub é uma plataforma onde podemos compartilhar nossos projetos e trabalhar junto de outros 
+desenvolvedores sem correr o risco de perder arquivos ou versões anteriores do nosso trabalho. Isso ocorre por conta
+da maneira como o GitHub armazena seus dados em "snapshots", que são basicamente conjuntos de imagens de um sistema
+de arquivos em miniatura.
+Aprendi também comandos importantes do Git, sendo eles;
+comando para criar um repositório (git init), clonar um repositório já existente (git clone url), adicionar os 
+arquivos a serem comitados ("git add ." para adicionar todos os arquivos do repositório e "git add nomedoarquivo"
+para adicionar um arquivo específico), comitar um arquivo (git commit -m "mensagem"), adicionar um arquivo gitignore
+(touch .gitignore), criar um arquivo (touch arquivo.formato), saber o status dos meus arquivos (git status), saber 
+quais foram as mudanças feitas em arquivos comitados (git diff) verificar o histórico de commits feitos no repositório
+(git log), atualizar o repositório de acordo com o que está no GitHub (git pull) e enviar uma atualização para o 
+GitHub (git push).
+Meu vocabulário em relação ao Git também foi enriquecido, com termos como: master, develop e feature, que são usados
+para padronizar as branches e tornar a interpretação mais fácil.
+
